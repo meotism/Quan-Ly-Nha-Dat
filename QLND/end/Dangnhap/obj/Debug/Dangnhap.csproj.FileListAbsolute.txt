@@ -1,0 +1,114 @@
+C:\Users\trann\source\repos\Dangnhap\Dangnhap\bin\Debug\Dangnhap.exe.config
+C:\Users\trann\source\repos\Dangnhap\Dangnhap\bin\Debug\Dangnhap.exe
+C:\Users\trann\source\repos\Dangnhap\Dangnhap\bin\Debug\Dangnhap.pdb
+C:\Users\trann\source\repos\Dangnhap\Dangnhap\obj\Debug\Dangnhap.csprojAssemblyReference.cache
+C:\Users\trann\source\repos\Dangnhap\Dangnhap\obj\Debug\Dangnhap.Login.resources
+C:\Users\trann\source\repos\Dangnhap\Dangnhap\obj\Debug\Dangnhap.Properties.Resources.resources
+C:\Users\trann\source\repos\Dangnhap\Dangnhap\obj\Debug\Dangnhap.csproj.GenerateResource.cache
+C:\Users\trann\source\repos\Dangnhap\Dangnhap\obj\Debug\Dangnhap.exe
+C:\Users\trann\source\repos\Dangnhap\Dangnhap\obj\Debug\Dangnhap.pdb
+C:\Users\trann\source\repos\Dangnhap\Dangnhap\obj\Debug\Dangnhap.Chunha.resources
+C:\Users\trann\source\repos\Dangnhap\Dangnhap\obj\Debug\Dangnhap.Khachhang.resources
+C:\Users\trann\source\repos\Dangnhap\Dangnhap\obj\Debug\Dangnhap.Nhanvien.resources
+C:\Users\Admin\Desktop\Dangnhap\Dangnhap\bin\Debug\Dangnhap.exe.config
+C:\Users\Admin\Desktop\Dangnhap\Dangnhap\bin\Debug\Dangnhap.exe
+C:\Users\Admin\Desktop\Dangnhap\Dangnhap\bin\Debug\Dangnhap.pdb
+C:\Users\Admin\Desktop\Dangnhap\Dangnhap\obj\Debug\Dangnhap.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Dangnhap\Dangnhap\obj\Debug\Dangnhap.Chunha.resources
+C:\Users\Admin\Desktop\Dangnhap\Dangnhap\obj\Debug\Dangnhap.Login.resources
+C:\Users\Admin\Desktop\Dangnhap\Dangnhap\obj\Debug\Dangnhap.Khachhang.resources
+C:\Users\Admin\Desktop\Dangnhap\Dangnhap\obj\Debug\Dangnhap.Nhanvien.resources
+C:\Users\Admin\Desktop\Dangnhap\Dangnhap\obj\Debug\Dangnhap.Properties.Resources.resources
+C:\Users\Admin\Desktop\Dangnhap\Dangnhap\obj\Debug\Dangnhap.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Dangnhap\Dangnhap\obj\Debug\Dangnhap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Dangnhap\Dangnhap\obj\Debug\Dangnhap.exe
+C:\Users\Admin\Desktop\Dangnhap\Dangnhap\obj\Debug\Dangnhap.pdb
+C:\Users\Admin\Desktop\Dangnhap1\Dangnhap\bin\Debug\Dangnhap.exe.config
+C:\Users\Admin\Desktop\Dangnhap1\Dangnhap\bin\Debug\Dangnhap.exe
+C:\Users\Admin\Desktop\Dangnhap1\Dangnhap\bin\Debug\Dangnhap.pdb
+C:\Users\Admin\Desktop\Dangnhap1\Dangnhap\obj\Debug\Dangnhap.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Dangnhap1\Dangnhap\obj\Debug\Dangnhap.Chunha.resources
+C:\Users\Admin\Desktop\Dangnhap1\Dangnhap\obj\Debug\Dangnhap.Login.resources
+C:\Users\Admin\Desktop\Dangnhap1\Dangnhap\obj\Debug\Dangnhap.Khachhang.resources
+C:\Users\Admin\Desktop\Dangnhap1\Dangnhap\obj\Debug\Dangnhap.Nhanvien.resources
+C:\Users\Admin\Desktop\Dangnhap1\Dangnhap\obj\Debug\Dangnhap.Properties.Resources.resources
+C:\Users\Admin\Desktop\Dangnhap1\Dangnhap\obj\Debug\Dangnhap.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Dangnhap1\Dangnhap\obj\Debug\Dangnhap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Dangnhap1\Dangnhap\obj\Debug\Dangnhap.exe
+C:\Users\Admin\Desktop\Dangnhap1\Dangnhap\obj\Debug\Dangnhap.pdb
+C:\Users\Admin\Desktop\Truong_Tuanx2\Dangnhap\bin\Debug\Dangnhap.exe.config
+C:\Users\Admin\Desktop\Truong_Tuanx2\Dangnhap\bin\Debug\Dangnhap.exe
+C:\Users\Admin\Desktop\Truong_Tuanx2\Dangnhap\obj\Debug\Dangnhap.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Truong_Tuanx2\Dangnhap\obj\Debug\Dangnhap.Chunha.resources
+C:\Users\Admin\Desktop\Truong_Tuanx2\Dangnhap\obj\Debug\Dangnhap.Login.resources
+C:\Users\Admin\Desktop\Truong_Tuanx2\Dangnhap\obj\Debug\Dangnhap.Khachhang.resources
+C:\Users\Admin\Desktop\Truong_Tuanx2\Dangnhap\obj\Debug\Dangnhap.Nhanvien.resources
+C:\Users\Admin\Desktop\Truong_Tuanx2\Dangnhap\obj\Debug\Dangnhap.Properties.Resources.resources
+C:\Users\Admin\Desktop\Truong_Tuanx2\Dangnhap\obj\Debug\Dangnhap.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Truong_Tuanx2\Dangnhap\obj\Debug\Dangnhap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Truong_Tuanx2\Dangnhap\obj\Debug\Dangnhap.exe
+C:\Users\Admin\Desktop\Truong_Tuanx2\Dangnhap\obj\Debug\Dangnhap.pdb
+C:\Users\Admin\Desktop\Truong_Tuanx2\Dangnhap\bin\Debug\Dangnhap.pdb
+C:\Users\Admin\Desktop\giaoDien_Truong_XTuan_NTuan\Dangnhap\bin\Debug\Dangnhap.exe.config
+C:\Users\Admin\Desktop\giaoDien_Truong_XTuan_NTuan\Dangnhap\bin\Debug\Dangnhap.exe
+C:\Users\Admin\Desktop\giaoDien_Truong_XTuan_NTuan\Dangnhap\bin\Debug\Dangnhap.pdb
+C:\Users\Admin\Desktop\giaoDien_Truong_XTuan_NTuan\Dangnhap\obj\Debug\Dangnhap.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\giaoDien_Truong_XTuan_NTuan\Dangnhap\obj\Debug\Dangnhap.Chunha.resources
+C:\Users\Admin\Desktop\giaoDien_Truong_XTuan_NTuan\Dangnhap\obj\Debug\Dangnhap.Login.resources
+C:\Users\Admin\Desktop\giaoDien_Truong_XTuan_NTuan\Dangnhap\obj\Debug\Dangnhap.Khachhang.resources
+C:\Users\Admin\Desktop\giaoDien_Truong_XTuan_NTuan\Dangnhap\obj\Debug\Dangnhap.Nhanvien.resources
+C:\Users\Admin\Desktop\giaoDien_Truong_XTuan_NTuan\Dangnhap\obj\Debug\Dangnhap.Properties.Resources.resources
+C:\Users\Admin\Desktop\giaoDien_Truong_XTuan_NTuan\Dangnhap\obj\Debug\Dangnhap.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\giaoDien_Truong_XTuan_NTuan\Dangnhap\obj\Debug\Dangnhap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\giaoDien_Truong_XTuan_NTuan\Dangnhap\obj\Debug\Dangnhap.exe
+C:\Users\Admin\Desktop\giaoDien_Truong_XTuan_NTuan\Dangnhap\obj\Debug\Dangnhap.pdb
+E:\Database Management Systems\giaoDien_Truong_XTuan_NTuan\Dangnhap\obj\Debug\Dangnhap.csprojAssemblyReference.cache
+E:\Database Management Systems\giaoDien_Truong_XTuan_NTuan\Dangnhap\obj\Debug\Dangnhap.Chunha.resources
+E:\Database Management Systems\giaoDien_Truong_XTuan_NTuan\Dangnhap\obj\Debug\Dangnhap.Login.resources
+E:\Database Management Systems\giaoDien_Truong_XTuan_NTuan\Dangnhap\obj\Debug\Dangnhap.Khachhang.resources
+E:\Database Management Systems\giaoDien_Truong_XTuan_NTuan\Dangnhap\obj\Debug\Dangnhap.Nhanvien.resources
+E:\Database Management Systems\giaoDien_Truong_XTuan_NTuan\Dangnhap\obj\Debug\Dangnhap.Properties.Resources.resources
+E:\Database Management Systems\giaoDien_Truong_XTuan_NTuan\Dangnhap\obj\Debug\Dangnhap.csproj.GenerateResource.cache
+E:\Database Management Systems\giaoDien_Truong_XTuan_NTuan\Dangnhap\obj\Debug\Dangnhap.csproj.CoreCompileInputs.cache
+E:\Database Management Systems\giaoDien_Truong_XTuan_NTuan\Dangnhap\obj\Debug\Dangnhap.exe
+E:\Database Management Systems\giaoDien_Truong_XTuan_NTuan\Dangnhap\obj\Debug\Dangnhap.pdb
+E:\Database Management Systems\giaoDien_Truong_XTuan_NTuan\Dangnhap\bin\Debug\Dangnhap.exe.config
+E:\Database Management Systems\giaoDien_Truong_XTuan_NTuan\Dangnhap\bin\Debug\Dangnhap.exe
+E:\Database Management Systems\giaoDien_Truong_XTuan_NTuan\Dangnhap\bin\Debug\Dangnhap.pdb
+C:\Users\ffqph\OneDrive\Máy tính\Update_Trang\Dangnhap\bin\Debug\Dangnhap.exe.config
+C:\Users\ffqph\OneDrive\Máy tính\Update_Trang\Dangnhap\bin\Debug\Dangnhap.exe
+C:\Users\ffqph\OneDrive\Máy tính\Update_Trang\Dangnhap\bin\Debug\Dangnhap.pdb
+C:\Users\ffqph\OneDrive\Máy tính\Update_Trang\Dangnhap\obj\Debug\Dangnhap.csprojAssemblyReference.cache
+C:\Users\ffqph\OneDrive\Máy tính\Update_Trang\Dangnhap\obj\Debug\Dangnhap.Chunha.resources
+C:\Users\ffqph\OneDrive\Máy tính\Update_Trang\Dangnhap\obj\Debug\Dangnhap.Login.resources
+C:\Users\ffqph\OneDrive\Máy tính\Update_Trang\Dangnhap\obj\Debug\Dangnhap.Khachhang.resources
+C:\Users\ffqph\OneDrive\Máy tính\Update_Trang\Dangnhap\obj\Debug\Dangnhap.Nhanvien.resources
+C:\Users\ffqph\OneDrive\Máy tính\Update_Trang\Dangnhap\obj\Debug\Dangnhap.Properties.Resources.resources
+C:\Users\ffqph\OneDrive\Máy tính\Update_Trang\Dangnhap\obj\Debug\Dangnhap.csproj.GenerateResource.cache
+C:\Users\ffqph\OneDrive\Máy tính\Update_Trang\Dangnhap\obj\Debug\Dangnhap.csproj.CoreCompileInputs.cache
+C:\Users\ffqph\OneDrive\Máy tính\Update_Trang\Dangnhap\obj\Debug\Dangnhap.exe
+C:\Users\ffqph\OneDrive\Máy tính\Update_Trang\Dangnhap\obj\Debug\Dangnhap.pdb
+C:\Users\trann\Desktop\end\end\Dangnhap\bin\Debug\Dangnhap.exe.config
+C:\Users\trann\Desktop\end\end\Dangnhap\bin\Debug\Dangnhap.exe
+C:\Users\trann\Desktop\end\end\Dangnhap\bin\Debug\Dangnhap.pdb
+C:\Users\trann\Desktop\end\end\Dangnhap\obj\Debug\Dangnhap.csprojAssemblyReference.cache
+C:\Users\trann\Desktop\end\end\Dangnhap\obj\Debug\Dangnhap.Chunha.resources
+C:\Users\trann\Desktop\end\end\Dangnhap\obj\Debug\Dangnhap.Login.resources
+C:\Users\trann\Desktop\end\end\Dangnhap\obj\Debug\Dangnhap.Khachhang.resources
+C:\Users\trann\Desktop\end\end\Dangnhap\obj\Debug\Dangnhap.Nhanvien.resources
+C:\Users\trann\Desktop\end\end\Dangnhap\obj\Debug\Dangnhap.Properties.Resources.resources
+C:\Users\trann\Desktop\end\end\Dangnhap\obj\Debug\Dangnhap.csproj.GenerateResource.cache
+C:\Users\trann\Desktop\end\end\Dangnhap\obj\Debug\Dangnhap.exe
+C:\Users\trann\Desktop\end\end\Dangnhap\obj\Debug\Dangnhap.pdb
+C:\Users\trann\Desktop\finall\end\Dangnhap\bin\Debug\Dangnhap.exe.config
+C:\Users\trann\Desktop\finall\end\Dangnhap\bin\Debug\Dangnhap.exe
+C:\Users\trann\Desktop\finall\end\Dangnhap\bin\Debug\Dangnhap.pdb
+C:\Users\trann\Desktop\finall\end\Dangnhap\obj\Debug\Dangnhap.csprojAssemblyReference.cache
+C:\Users\trann\Desktop\finall\end\Dangnhap\obj\Debug\Dangnhap.Chunha.resources
+C:\Users\trann\Desktop\finall\end\Dangnhap\obj\Debug\Dangnhap.Login.resources
+C:\Users\trann\Desktop\finall\end\Dangnhap\obj\Debug\Dangnhap.Khachhang.resources
+C:\Users\trann\Desktop\finall\end\Dangnhap\obj\Debug\Dangnhap.Nhanvien.resources
+C:\Users\trann\Desktop\finall\end\Dangnhap\obj\Debug\Dangnhap.Properties.Resources.resources
+C:\Users\trann\Desktop\finall\end\Dangnhap\obj\Debug\Dangnhap.csproj.GenerateResource.cache
+C:\Users\trann\Desktop\finall\end\Dangnhap\obj\Debug\Dangnhap.exe
+C:\Users\trann\Desktop\finall\end\Dangnhap\obj\Debug\Dangnhap.pdb
